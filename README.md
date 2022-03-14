@@ -5,7 +5,7 @@ ____________________
 
 ## Como rodar o jogo
 
-Basta baixar o ![python.org](python.org) depois
+Basta baixar o Python depois
 de instalar o python copie e cole o código acima
 e clique em "Run" e estará rodando
 
